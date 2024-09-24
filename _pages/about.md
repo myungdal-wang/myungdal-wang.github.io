@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Welcome to my homepage!
 
 I'm currently a senior undergraduate student at Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Peking University.
 
