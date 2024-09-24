@@ -41,6 +41,12 @@ Pollution, Information and Migration. Asian Development Review, Accepted. First 
 # 🎖 Honors and Awards
 - *2024* Outstanding Winner (特等奖), Challenge Cup Academic Competition.
 - *2024* Outstanding Winner, Alumni Cup Academic Competition (RMB 20,000)
+- *2024* First Prize, Finance and Economics China Academic Summit
+- *2024* Second Prize, 14th Chinese Undergraduate Economics Annual Conference
+- *2023* College Students’ Innovative Entrepreneurial Training Plan Program (RMB 5,000)
+- *2023* Third Prize, 6th Future Economist Forum
+- *2023* CAFD Best Singer
+- *2022* Outstanding Student, Central University of Finance and Economics
 
 # 📖 Educations
 - *2025.09 - , Ph.D., Economics, Institute for Global Health and Development & National School of Development, Peking University. 
