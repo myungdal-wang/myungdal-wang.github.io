@@ -31,9 +31,8 @@ My research interest includes labor, health and politics.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mingda Wang**, Zikun Kyle Ding (Zikun is my classmate, friend and research assistant.)
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Pollution, Information and Migration. Asian Development Review, Accepted. First Author & Corresponding Author. (With my RA Zikun Ding. Zikun is my classmate, friend and research assistant.)
+- Abstract: This study exploits the staggered roll-out of a landmark air quality monitoring program in China to study the migration response to pollution information disclosure and labor market outcomes. Using two nationally representative individual-level datasets, we show that information mitigates the negative pollution-settlement relationship, contrary to intuition. These results are attributable to information effects—increased life satisfaction from information accessibility and environmental governance—and health effects, including improved health conditions and reduced hospital costs. Further evidence suggests income growth is more pronounced for individuals with better Internet or mobile device access and in regions with stronger economic development and healthcare resources. We also rule out alternative explanations related to labor supply and selection issues. Our findings highlight the benefits of improving public access to pollution information in developing economies where information blockades are widespread.
 </div>
 </div>
 
