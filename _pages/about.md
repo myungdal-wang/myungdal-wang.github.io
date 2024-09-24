@@ -44,12 +44,21 @@ My research interest includes labor, health and politics.
 - *2024* Outstanding Winner, Alumni Cup Academic Competition (RMB 20,000)
 
 # 📖 Educations
-- *2025.09 - , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09 - 2025.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - , Ph.D., Economics, Institute for Global Health and Development & National School of Development, Peking University. 
+- *2021.09 - 2025.06*, B.Econ. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+
+
+
+
+
+
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
