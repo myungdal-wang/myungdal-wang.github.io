@@ -22,10 +22,6 @@ I'm currently a senior undergraduate student at Central University of Finance an
 My research interest includes labor, health and politics. 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 1. **Pollution, Information and Migration** Asian Development Review, Accepted. First Author & Corresponding Author. (With my RA Zikun Ding. Zikun is my classmate, friend and research assistant.)
@@ -56,8 +52,5 @@ My research interest includes labor, health and politics.
 - *2021.09 - 2025.06*, B.Econ. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-
-# 💻 Internships
+- 2023 47th Xiangzhang (Beijing) Seminar; 6th Future Economist Forum
+- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; The 16th CEA (Europe) and 35th CEA (UK) Annual Conference
