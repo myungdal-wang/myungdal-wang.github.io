@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I'm currently a senior undergraduate student at CAFD, Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Institute for Global Health and Development & National School of Development, Peking University.
+I'm currently a senior undergraduate student at Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Peking University.
 My research interest includes labor, health and politics. 
 
 
@@ -34,10 +34,12 @@ My research interest includes labor, health and politics.
 # 📝 Pre-PhD Working Papers 
 
 1. **How Does Capital Market Respond to Justice? Judicial Reform in China** Under Review at Journal of Comparative Economics. Single Author.
-- Abstract: I exploit the progressive roll-out of a landmark judicial reform in China to examine the effects of judicial justice on investors’ attitudes. The results suggest that the reform increases local firms’ stock liquidity, indicating trust from investors. This is because decoupling of judiciary and administrative power reduces protectionism and distortion in judicial decisions where incentives for intervention are strong, as well as enhances the enthusiasm and effectiveness of media, analysts and managements in disclosure, improving the firms’ information environments. The positive effects are stronger for firms non state-owned, bank-dependent and lack of government support. The reform further improves the price informativeness and reduces the crash risk, excluding the alternative explanation for noise traders. My findings highlight the positive externality of judicial justice and demonstrate that fighting the remnants of protectionism and administrative overreach can effectively promote the development of the capital market.
+- Abstract: I exploit the progressive roll-out of a landmark judicial reform in China to examine the effects of judicial justice on investors’ attitudes. The results suggest that the reform raises the trust from investors. This is because decoupling of judiciary and administrative power reduces protectionism and distortion in judicial decisions where incentives for intervention are strong, as well as enhances the enthusiasm and effectiveness of media, analysts and managements in disclosure, improving the firms’ information environments. The positive effects are stronger for firms non state-owned, bank-dependent and lack of government support. The reform further improves the price informativeness and reduces the crash risk, excluding the alternative explanation for noise traders. My findings highlight the positive externality of judicial justice and demonstrate that fighting the remnants of protectionism and administrative overreach can effectively promote the development of the capital market.
 
-Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away. Single Author.
-- Abstract: I propose three possible outcomes regarding firms’ cash decisions when the spontaneous protectionism under political promotion tournament diminishes: increasing holdings to curry favor with officials, reducing holdings to avoid expropriation by officials, and reducing holdings due to an improved information environment and increased investor confidence. I exploit the progressive roll-out of a landmark judicial reform in China to examine this issue. The results suggest that firms no longer need to hold excess cash to hedge operational risks, which is attributed to improved information disclosure rather than avoiding expropriation risk. My findings highlight the positive externalities of combating protectionism and administrative overreach from the perspective of the healthy development of firms
+2. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
+
+# 📝 Works in Progress
+1. **Climate Change and Biodiversity** (with Yuhang Pan & Tanaka Takanao)
 
 # 🎖 Honors and Awards
 - *2024* Outstanding Winner (特等奖), Challenge Cup Academic Competition.
