@@ -19,7 +19,10 @@ redirect_from:
 
 
 I'm currently a senior undergraduate student at Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Peking University.
-My research interest includes labor, health and politics. 
+
+My pre-PhD research interest includes labor, health and politics. Moreover, due to my finance major, I'm also familiar with corporate finance.
+
+I'm seeking opportunities for collaboration with smart guys. If you could allow me to join your projects, or you'd like to join my projects, feel free to contact me at wmdplato@163.com 
 
 
 # 📝 Publications 
