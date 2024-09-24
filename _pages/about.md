@@ -42,6 +42,9 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Tanaka Takanao)
 
 # 🎖 Honors and Awards
+
+- *2024* Travel Grant, Asian Development Bank ($ 1,800)
+- *2024* Travel Grant for “One Health” Econ Summer Program, PKU & Yale (RMB 1,000)
 - *2024* Outstanding Winner (特等奖), Challenge Cup Academic Competition.
 - *2024* Outstanding Winner, Alumni Cup Academic Competition (RMB 20,000)
 - *2024* First Prize, Finance and Economics China Academic Summit
