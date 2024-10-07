@@ -39,7 +39,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 2. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
 # 📝 Works in Progress
-1. **Climate Change and Biodiversity** (with Yuhang Pan & Tanaka Takanao)
+1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
 # 🎖 Honors and Awards
 
