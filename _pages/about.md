@@ -41,7 +41,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 # 📝 Works in Progress
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
-2. **Ides of March: Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
+2. **Ides of March: Assassination and the Crisis of Political Legitimacy in Ancient China** (with my junior co-author Mingyu Shu)
 
 # 🎖 Honors and Awards
 
