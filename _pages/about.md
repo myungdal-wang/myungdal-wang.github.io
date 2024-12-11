@@ -67,8 +67,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 📖 Educations
 - *2025.09 - , Ph.D., Economics, Institute for Global Health and Development & National School of Development, Peking University. 
-- *2021.09 - 2025.06*, B.Econ. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
+- *2021.09 - 2025.06*, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
 - 2023 47th Xiangzhang (Beijing) Seminar; 6th Future Economist Forum
-- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; The 16th CEA (Europe) and 35th CEA (UK) Annual Conference
+- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; Anhui University; Southeastern University (Co-author)
