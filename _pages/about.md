@@ -28,7 +28,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 📝 Publications 
 
-1. **Pollution, Information and Migration** Asian Development Review, Accepted. First Author & Corresponding Author. (With Zikun Ding. Zikun is my classmate, friend and research assistant.)
+1. **Pollution, Information and Migration** Asian Development Review, Accepted. First Author & Corresponding Author. (With Zikun Ding. Zikun is my classmate, friend and assistant.)
 - Abstract: This study exploits the staggered roll-out of a landmark air quality monitoring program in China to study the migration response to pollution information disclosure and labor market outcomes. Using two nationally representative individual-level datasets, we show that information mitigates the negative pollution-settlement relationship, contrary to intuition. These results are attributable to information effects—increased life satisfaction from information accessibility and environmental governance—and health effects, including improved health conditions and reduced hospital costs. Further evidence suggests income growth is more pronounced for individuals with better Internet or mobile device access and in regions with stronger economic development and healthcare resources. We also rule out alternative explanations related to labor supply and selection issues. Our findings highlight the benefits of improving public access to pollution information in developing economies where information blockades are widespread.
 
 # 📝 Pre-PhD Working Papers 
