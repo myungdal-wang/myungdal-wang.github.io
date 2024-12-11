@@ -41,7 +41,16 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 # 📝 Works in Progress
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
-2. **Ides of March: Assassination and the Crisis of Political Legitimacy in Ancient China** (with my junior co-author Mingyu Shu)
+2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu, Fengming Liu & Shun Wang)
+
+3. **Blockchain in Anti-Corruption: Curbing Rent-Seeking and Optimizing Market** (with Mingyu Shu & Shun Wang)
+
+4. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
+
+5. **Green Bubble for Bureaucratic Promotion in China** (with Mingyu Shu & Shun Wang)
+
+6. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
+
 
 # 🎖 Honors and Awards
 
