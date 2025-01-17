@@ -55,7 +55,11 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 7. **Intergenerational Mobility** (with Chen Huang)
 
-8. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
+8. **Cultural Transformation in Sub-Saharan Africa** (with Fengming Liu)
+
+9. **Democratization in China** (with Weiyi Wang)
+
+10. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
 
 
 # 🎖 Honors and Awards
