@@ -33,7 +33,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 📝 Pre-PhD Working Papers 
 
-1.**A Tale for Blue Sky** Submitted. Single Author.
+ 1.**A Tale for Blue Sky** Submitted. Single Author.
 
 2. **How Does Capital Market Respond to Justice?** Submitted. Single Author.
 
