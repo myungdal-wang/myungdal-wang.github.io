@@ -33,12 +33,13 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 📝 Pre-PhD Working Papers 
 
-1. **How Does Capital Market Respond to Justice? Judicial Reform in China** Under Review at Journal of Comparative Economics. Single Author.
-- Abstract: I exploit the progressive roll-out of a landmark judicial reform in China to examine the effects of judicial justice on investors’ attitudes. The results suggest that the reform raises the trust from investors. This is because decoupling of judiciary and administrative power reduces protectionism and distortion in judicial decisions where incentives for intervention are strong, as well as enhances the enthusiasm and effectiveness of media, analysts and managements in disclosure, improving the firms’ information environments. The positive effects are stronger for firms non state-owned, bank-dependent and lack of government support. The reform further improves the price informativeness and reduces the crash risk, excluding the alternative explanation for noise traders. My findings highlight the positive externality of judicial justice and demonstrate that fighting the remnants of protectionism and administrative overreach can effectively promote the development of the capital market.
+1.**A Tale for Blue Sky** Submitted. Single Author.
 
-2. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
+2. **How Does Capital Market Respond to Justice?** Submitted. Single Author.
 
-3. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
+3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
+
+4. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
 
 # 📝 Works in Progress
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
