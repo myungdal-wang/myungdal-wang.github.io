@@ -38,6 +38,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 2. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
+3. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
+
 # 📝 Works in Progress
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
@@ -47,9 +49,13 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 4. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
 
-5. **Green Bubble for Bureaucratic Promotion in China** (with Mingyu Shu & Shun Wang)
+5. **Elite Networks and Workplace Safety in China** (with Mingyu Shu)
 
-6. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
+6. **Bank Risk-Taking** (with Mingyu Shu & Shun Wang)
+
+7. **Intergenerational Mobility** (with Chen Huang)
+
+8. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
 
 
 # 🎖 Honors and Awards
