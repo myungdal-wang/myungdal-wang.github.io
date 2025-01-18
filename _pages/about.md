@@ -39,8 +39,6 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
-4. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
-
 # 📝 Works in Progress
 1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
@@ -58,9 +56,19 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 8. **Cultural Transformation in Sub-Saharan Africa** (with Fengming Liu)
 
-9. **Democratization in China** (with Weiyi Wang)
+9. **Democratization in China** (with Yiwei Wang)
 
-10. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
+10. **Trade and Migration** (with Zikun Ding)
+
+11. **Migration and Workplace Safety**
+
+12. **Trade and Health**
+
+13. **Trade and Public Finance**
+
+14. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
+
+15. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
 
 
 # 🎖 Honors and Awards
