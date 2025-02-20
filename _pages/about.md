@@ -62,11 +62,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 11. **Migration and Workplace Safety**
 
-12. **Trade and Health**
-
-13. **Trade and Public Finance**
-
-14. **Polity Size and Missing Women in India: a Regression Discontinuity Design** (with Mingyu Shu)
+12. **Polity Size and Missing Women in India: a Regression Discontinuity Design** (with Mingyu Shu)
 
 
 # 🎖 Honors and Awards
