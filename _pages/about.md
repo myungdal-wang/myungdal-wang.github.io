@@ -40,7 +40,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
 # 📝 Works in Progress
-1. **Climate Change and Biodiversity** (with Yuhang Pan & Takanao Tanaka)
+1. **Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
 2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu, Fengming Liu & Shun Wang)
 
@@ -52,11 +52,11 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 6. **Bank Risk-Taking** (with Mingyu Shu & Shun Wang)
 
-7. **Intergenerational Mobility** (with Chen Huang)
+7. **Intergenerational Mobility**
 
 8. **Cultural Transformation in Sub-Saharan Africa** (with Fengming Liu)
 
-9. **Democratization in China** (with Yiwei Wang)
+9. **Democratization in China**
 
 10. **Trade and Migration** (with Zikun Ding)
 
@@ -66,9 +66,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 13. **Trade and Public Finance**
 
-14. **Polity Size and Missing Women in India: an RD estimate** (with Mingyu Shu)
-
-15. **World Cup Group Stage Double-Round Robin System: Redefining Strength and Fairness** (with Mingyu Shu & Shun Wang)
+14. **Polity Size and Missing Women in India: a Regression Discontinuity Design** (with Mingyu Shu)
 
 
 # 🎖 Honors and Awards
