@@ -48,7 +48,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 4. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
 
-5. **Elite Networks and Workplace Safety in China** (with Mingyu Shu)
+5. **Elite Networks** (with Mingyu Shu)
 
 6. **Bank Risk-Taking** (with Mingyu Shu & Shun Wang)
 
@@ -58,11 +58,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 9. **Democratization in China**
 
-10. **Trade and Migration** (with Zikun Ding)
-
-11. **Migration and Workplace Safety**
-
-12. **Polity Size and Missing Women in India: a Regression Discontinuity Design** (with Mingyu Shu)
+10. **Trade and Migration**
 
 
 # 🎖 Honors and Awards
