@@ -23,7 +23,9 @@ I'm currently a senior undergraduate student at Central University of Finance an
 
 My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
-I'm seeking opportunities for collaboration. If possible, feel free to contact me at wmdplato@163.com 
+I'm seeking opportunities for collaboration. If possible, feel free to contact me at wmdplato@163.com.
+
+兄弟登山  各自努力
 
 
 # 📝 Publications 
