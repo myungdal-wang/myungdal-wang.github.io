@@ -21,7 +21,7 @@ Welcome to my homepage!
 
 I'm currently a senior undergraduate student at Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Peking University.
 
-My pre-PhD research interest includes labor, health and politics. Moreover, due to my finance major, I'm also familiar with corporate finance.
+My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at wmdplato@163.com 
 
@@ -44,17 +44,17 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu, Fengming Liu & Shun Wang)
 
-3. **Blockchain in Anti-Corruption: Curbing Rent-Seeking and Optimizing Market** (with Mingyu Shu & Shun Wang)
+3. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
 
-4. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
+4. **Safety** (with Mingyu Shu)
 
-5. **Elite Networks** (with Mingyu Shu)
+5. **Elites**
 
-6. **Bank Risk-Taking** (with Mingyu Shu & Shun Wang)
+6. **Banks** (with Mingyu Shu & Shun Wang)
 
 7. **Intergenerational Mobility**
 
-8. **Cultural Transformation in Sub-Saharan Africa** (with Fengming Liu)
+8. **Cultural Transformation** (with Fengming Liu & Mingyu Shu)
 
 9. **Democratization in China**
 
@@ -80,4 +80,5 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 💬 Invited Talks
 - 2023 47th Xiangzhang (Beijing) Seminar; 6th Future Economist Forum
-- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; Anhui University; Southeastern University (Co-author)
+- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; Anhui University.
+- 2025 
