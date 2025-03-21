@@ -44,7 +44,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 # 📝 Works in Progress
 1. **Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
-2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu, Fengming Liu & Shun Wang)
+2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
 
 3. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
 
@@ -60,7 +60,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 9. **Democratization in China**
 
-10. **Trade and Migration**
+10. **Pollution and Tax**
 
 
 # 🎖 Honors and Awards
