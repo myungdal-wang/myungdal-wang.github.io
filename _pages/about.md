@@ -58,11 +58,6 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 8. **Cultural Transformation** (with Fengming Liu & Mingyu Shu)
 
-9. **Culture** (with Luo)
-
-10. **Pollution and Tax** (with Luo, Zhang & Zhou)
-
-
 # 🎖 Honors and Awards
 
 - *2024* Travel Grant, Asian Development Bank ($ 1,800)
