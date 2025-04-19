@@ -72,7 +72,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 - *2022* Outstanding Student, Central University of Finance and Economics
 
 # 📖 Educations
-- *2025.09 - , Ph.D., Economics, Institute for Global Health and Development & National School of Development, Peking University. 
+- *2025.09 - , Ph.D., Economics, Institute for Global Health and Development, Peking University. 
 - *2021.09 - 2025.06*, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
