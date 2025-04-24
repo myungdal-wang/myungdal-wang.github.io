@@ -1,29 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {% include head.html %}
-  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Myungdal Wang</h1>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/courses.html' | relative_url }}">Courses</a>
-        <a href="{{ '/data.html' | relative_url }}">Data</a>
-        <a href="{{ '/publications.html' | relative_url }}">Publications</a>
-        <a href="{{ '/personal.html' | relative_url }}">Personal</a>
-      </nav>
-    </header>
+---
+layout: compress
+---
 
-    <main>
-      {{ content }}
-    </main>
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-    <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} Myungdal Wang</p>
-    </footer>
-  </div>
-</body>
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
 </html>
