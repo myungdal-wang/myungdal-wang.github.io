@@ -41,6 +41,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
+4. **Tax and Pollution** With Yu Luo, Ming-ang Zhang & Hui Zhou.
+
 # 📝 Works in Progress
 1. **Biodiversity** (with Yuhang Pan & Takanao Tanaka)
 
