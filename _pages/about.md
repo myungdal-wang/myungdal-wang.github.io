@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I'm currently a senior undergraduate student at Central University of Finance and Economics. And I'm going to pursue a PhD in Econ at Peking University.
+I'm an incoming Econ PhD student at PKU-GHD.
 
 My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
@@ -74,8 +74,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 - *2022* Outstanding Student, Central University of Finance and Economics
 
 # 📖 Educations
-- *2025.09 - , Ph.D., Economics, Institute for Global Health and Development, Peking University. 
-- *2021.09 - 2025.06*, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
+- 2025.09 - , Ph.D., Economics, Institute for Global Health and Development, Peking University. 
+- 2021.09 - 2025.06, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
 - 2023 47th Xiangzhang (Beijing) Seminar; 6th Future Economist Forum
