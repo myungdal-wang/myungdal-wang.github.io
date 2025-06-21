@@ -30,7 +30,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 # 📝 Publications 
 
-1. **[Pollution, Information and Migration](https://doi.org/10.1142/S0116110525400025)** Asian Development Review, Vol. 42, No. 01, pp. 31-56 (2025). First Author & Corresponding Author. (With Zikun Ding. Zikun is my research assistant.) 
+1. **[Pollution, Information and Migration](https://doi.org/10.1142/S0116110525400025)** Asian Development Review, Vol. 42, No. 01, pp. 31-56 (2025). First Author & Corresponding Author. (With my research assistant Zikun Ding.) 
 - Abstract: This study exploits the staggered roll-out of a landmark air quality monitoring program in China to study the migration response to pollution information disclosure and labor market outcomes. Using two nationally representative individual-level datasets, we show that information mitigates the negative pollution-settlement relationship, contrary to intuition. These results are attributable to information effects—increased life satisfaction from information accessibility and environmental governance—and health effects, including improved health conditions and reduced hospital costs. Further evidence suggests income growth is more pronounced for individuals with better Internet or mobile device access and in regions with stronger economic development and healthcare resources. We also rule out alternative explanations related to labor supply and selection issues. Our findings highlight the benefits of improving public access to pollution information in developing economies where information blockades are widespread.
 
 # 📝 Pre-PhD Working Papers 
@@ -41,18 +41,18 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
-4. **Tax and Pollution** With Yu Luo, Ming-ang Zhang & Hui Zhou.
+4. **The Environmental Costs of Stimulus Policy** With Yu Luo, Ming-ang Zhang & Hui Zhou.
 
 # 📝 Works in Progress
-1. **Biodiversity** (with Yuhang Pan & Takanao Tanaka)
+1. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
 
-2. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
+2. **Health and Politics**
 
 3. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
 
 4. **Safety** (with Mingyu Shu)
 
-5. **Elites**
+5. **Elites** (with Sicheng Xu)
 
 6. **Banks** (with Mingyu Shu & Shun Wang)
 
