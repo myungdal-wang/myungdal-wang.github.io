@@ -19,9 +19,9 @@ redirect_from:
 
 Welcome to my homepage!
 
-I'm an incoming Econ PhD student at PKU-GHD.
+I'm an incoming Econ PhD student at PKU-iGHD.
 
-My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
+Prior to this, I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at wmdplato@163.com.
 
@@ -42,6 +42,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Single Author.
 
 4. **The Environmental Costs of Stimulus Policy** With Yu Luo, Ming-ang Zhang & Hui Zhou.
+
+5. **Conservatism** Single Author.
 
 # 📝 Works in Progress
 1. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
