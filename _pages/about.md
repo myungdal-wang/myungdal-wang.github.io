@@ -23,7 +23,7 @@ I'm an incoming Econ PhD student at PKU-iGHD.
 
 Prior to this, I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
-I'm seeking opportunities for collaboration. If possible, feel free to contact me at wmdplato@163.com.
+I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang25@stu.pku.edu.cn or wmdplato@163.com.
 
 兄弟登山  各自努力
 
