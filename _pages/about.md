@@ -62,6 +62,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 8. **Cultural Transformation** (with Fengming Liu & Mingyu Shu)
 
+9. **Foreign Aid**
+
 # 🎖 Honors and Awards
 
 
