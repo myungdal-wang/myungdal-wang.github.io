@@ -39,11 +39,9 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 2. **How Does Capital Market Respond to Justice?** Submitted. Solo-Authored.
 
-3. **Why Firms Reduce Cash Holdings When Spontaneous Protectionism Faded Away** Solo-Authored.
+3. **The Environmental Costs of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou.
 
-4. **The Environmental Costs of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou.
-
-5. **Conservatism** Solo-Authored.
+4. **Conservatism** Solo-Authored.
 
 # 📝 Works in Progress
 1. **Foreign Aid**
