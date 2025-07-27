@@ -46,23 +46,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 5. **Conservatism** Solo-Authored.
 
 # 📝 Works in Progress
-1. **Assassination and the Crisis of Political Legitimacy in Ancient China** (with Mingyu Shu)
-
-2. **Health and Politics**
-
-3. **A Model for Soft Porn** (with Mingyu Shu & Haicheng Wang)
-
-4. **Safety** (with Mingyu Shu)
-
-5. **Elites** (with Sicheng Xu)
-
-6. **Banks** (with Mingyu Shu & Shun Wang)
-
-7. **Intergenerational Mobility**
-
-8. **Cultural Transformation** (with Fengming Liu & Mingyu Shu)
-
-9. **Foreign Aid**
+1. **Foreign Aid**
 
 # 🎖 Honors and Awards
 
