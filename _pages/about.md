@@ -25,7 +25,7 @@ Prior to this, I earned my Bachelor Degree at China Academy of Finance and Devel
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang25@stu.pku.edu.cn or wmdplato@163.com.
 
-I'm trying to organize a mentorship program. If you want to join us as a mentor or a mentee, please also contact me.
+I'm trying to organize a mentorship program. If you want to join us as a mentor or a mentee, please also contact me. We are committed to supporting underrepresented groups (based on race, ethnicity, gender, age, geographical location, gender identity, socioeconomic status, etc.).
 
 兄弟登山  各自努力
 
