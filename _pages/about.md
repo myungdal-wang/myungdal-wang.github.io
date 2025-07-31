@@ -49,6 +49,16 @@ I'm trying to organize a mentorship program. If you want to join us as a mentor 
 1. **Foreign Aid**
 
 # 🎖 Honors and Awards
+- *2024* Travel Grant, Asian Development Bank ($ 1,800)
+- *2024* Travel Grant for “One Health” Econ Summer Program, PKU & Yale (RMB 1,000)
+- *2024* Outstanding Winner (特等奖), Challenge Cup Academic Competition.
+- *2024* Outstanding Winner, Alumni Cup Academic Competition (RMB 20,000)
+- *2024* First Prize, Finance and Economics China Academic Summit
+- *2024* Second Prize, 14th Chinese Undergraduate Economics Annual Conference
+- *2023* College Students’ Innovative Entrepreneurial Training Plan Program (RMB 5,000)
+- *2023* Third Prize, 6th Future Economist Forum
+- *2023* CAFD Best Singer
+- *2022* Outstanding Student, Central University of Finance and Economics
 
 
 # 📖 Educations
@@ -56,3 +66,18 @@ I'm trying to organize a mentorship program. If you want to join us as a mentor 
 - 2021.09 - 2025.06, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
 
 # 💬 Invited Talks
+- 2023 47th Xiangzhang (Beijing) Seminar; 6th Future Economist Forum
+- 2024 China’s Economic Transition Workshop (Renmin University of China); She Shi You Sheng Social Science Forum; Finance and Economics China Academic Summit; Undergraduate Economics Annual Conference; 7th International Conference of China and Development Studies (2 papers); 2024 Conference of the International Association for Applied Econometrics; 3rd Asian Economic Development Conference; Anhui University.
+- 2025
+
+
+
+
+
+
+
+
+
+
+
+
