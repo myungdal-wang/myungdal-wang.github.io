@@ -21,11 +21,13 @@ Welcome to my homepage!
 
 I'm an incoming Econ PhD student at PKU-iGHD.
 
-Prior to this, I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
+I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. Prior to this, I majored in violin and composition (though most of the time I just show my singing skills).
+
+My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang25@stu.pku.edu.cn or wmdplato@163.com.
 
-I'm trying to organize a mentorship program. If you want to join us as a mentor or a mentee, please also contact me. We are committed to supporting underrepresented groups (based on race, ethnicity, gender, age, geographical location, gender identity, socioeconomic status, etc.).
+I'm trying to organize a mentorship program for potential PhD student in China Mainland. If you want to join us as a mentor or a mentee, please also contact me. We are committed to supporting underrepresented groups (based on race, ethnicity, gender, age, geographical location, gender identity, socioeconomic status, etc.).
 
 兄弟登山  各自努力
 
