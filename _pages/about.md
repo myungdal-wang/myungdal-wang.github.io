@@ -21,7 +21,7 @@ Welcome to my homepage!
 
 I'm an incoming Econ PhD student at PKU-iGHD.
 
-I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. Prior to this, I majored in violin and composition (though most of the time I just show my singing skills).
+I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. For more than ten years prior to this, I majored in violin and composition (though most of the time I just show my singing skills).
 
 My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
