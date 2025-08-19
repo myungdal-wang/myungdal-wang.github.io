@@ -53,8 +53,9 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 2. **Feminism**
 
 # 📝 Public Goods
-My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
-Current progress: Spain, Brazil, Korea, Taiwan, Peru...
+ My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
+ 
+ Current progress: Spain, Brazil, Korea, Taiwan, Peru...
 
 # 🎖 Honors and Awards
 
