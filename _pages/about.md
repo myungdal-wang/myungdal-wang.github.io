@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I'm an incoming Econ PhD student at PKU-iGHD.
+I'm an Econ PhD student at PKU-iGHD.
 
 I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. For more than ten years prior to this, I majored in violin and composition (though most of my undergrad time I just show the singing skills).
 
