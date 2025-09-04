@@ -43,7 +43,7 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 2. **How Does Capital Market Respond to Justice?** Submitted. Solo-Authored.
 
-3. **The Environmental Impacts of Stimulus Policy** with [Yu Luo](https://spft.swufe.edu.cn/info/1075/22413.htm), [Ming-ang Zhang](https://sites.google.com/view/mingangzhang/home) & [Hui Zhou](https://hui-zhou.netlify.app/).
+3. **The Environmental Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou.
 
 4. **Conservatism** Solo-Authored.
 
