@@ -39,11 +39,11 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 # 📝 Pre-PhD Working Papers 
 
-1. **A Tale of Blue Sky** Submitted. Solo-Authored.
+1. **A Tale of Blue Sky** Solo-Authored. Submitted.
 
-2. **How Does Capital Market Respond to Justice?** Submitted. Solo-Authored.
+2. **How Does Capital Market Respond to Justice?** Solo-Authored. Submitted.
 
-3. **The Environmental Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou.
+3. **The Environmental Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
 4. **Conservatism** Solo-Authored.
 
