@@ -43,7 +43,7 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 2. **How Does Capital Market Respond to Justice?** Solo-Authored. Submitted.
 
------The papers above won't be updated because their theoretical contributions do not meet my requirements, maybe they'll be continued when I have no more valuable projects.-----
+-----The contributions of the papers above do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
 3. **The Environmental Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
