@@ -45,7 +45,7 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 -----The contributions of the papers above do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
-3. **The Environmental Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
+3. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
 4. **Conservatism** Solo-Authored.
 
