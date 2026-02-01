@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Mingda Wang, and I also go by Meta (in Japanese) or Myungdal (in Korean).
+My name is **Mingda Wang** (王明达), and I also go by Meta (in Japanese) or Myungdal (in Korean).
 
 I'm an Econ PhD student at **[PKU-iGHD](https://www.ghd.pku.edu.cn/xs/bsdw/zdbs/wmd/index.htm)**. 
 
