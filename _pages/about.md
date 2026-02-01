@@ -25,7 +25,7 @@ I'm an Econ PhD student at **[PKU-iGHD](https://www.ghd.pku.edu.cn/xs/bsdw/zdbs/
 
 I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. For more than ten years prior to this, I majored in violin and composition (though most of my undergrad time I just show the singing skills).
 
-My pre-PhD research interest includes labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
+My pre-PhD research interests include labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang2025@nsd.pku.edu.cn or wmdplato@163.com.
 
@@ -41,15 +41,15 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 # 📝 Pre-PhD Working Papers 
 
-1. **A Tale of Blue Sky** Solo-Authored. Submitted.
+1. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
-2. **How Does Capital Market Respond to Justice?** Solo-Authored. Submitted.
+2. **Conservatism** Solo-Authored.
 
------The contributions of the papers above do not meet my requirements, they would't be updated until I have no more valuable projects.-----
+-----The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
-3. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
+3. **A Tale of Blue Sky** Solo-Authored. Submitted.
 
-4. **Conservatism** Solo-Authored.
+4. **How Does Capital Market Respond to Justice?** Solo-Authored. Submitted.
 
 # 📝 Works in Progress
 1. **Foreign Aid**
