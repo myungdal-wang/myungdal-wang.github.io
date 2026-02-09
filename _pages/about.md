@@ -29,8 +29,6 @@ My pre-PhD research interests include labor, health and politics. And I'm gonna 
 
 I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang2025@nsd.pku.edu.cn or wmdplato@163.com.
 
-I'm trying to organize a mentorship program for potential PhD student in China Mainland. If you want to join us as a mentor or a mentee, please also contact me. We are committed to supporting underrepresented groups (based on race, ethnicity, gender, age, geographical location, gender identity, socioeconomic status, etc.).
-
 兄弟登山  各自努力
 
 
@@ -47,9 +45,9 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 
 -----The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
-3. **A Tale of Blue Sky** Solo-Authored. Submitted.
+3. **A Tale of Blue Sky** Solo-Authored. Rest.
 
-4. **How Does Capital Market Respond to Justice?** Solo-Authored. Submitted.
+4. **How Does Capital Market Respond to Justice?** Solo-Authored. Rest.
 
 # 📝 Works in Progress
 1. **Foreign Aid**
@@ -61,7 +59,7 @@ I'm trying to organize a mentorship program for potential PhD student in China M
 # 📝 Public Goods
 - My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
 
-- Current progress: Brazil, Japan, Korea, Peru, Spain, Taiwan...
+- Current progress: Brazil, Germany, Italy, Japan, Korea, Peru, Spain, Taiwan...
 
 # 🎖 Honors and Awards
 
