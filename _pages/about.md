@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is **Mingda Wang** (王明达), and I also go by Meta (in Japanese) or Myungdal (in Korean).
+My name is **Mingda Wang** (王明達), and I also go by Meta (in Japanese) or Myungdal (in Korean).
 
 I'm an Econ PhD student at **[PKU-iGHD](https://www.ghd.pku.edu.cn/xs/bsdw/zdbs/wmd/index.htm)**. 
 
@@ -42,6 +42,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 1. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
 2. **Conservatism** Solo-Authored.
+
+3. **Forests** with Mingyu Shu.
 
 -----The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
