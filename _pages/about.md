@@ -60,6 +60,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 3. **Carbon** with Yuhang Pan.
 
+4. **Religion**
+
 # 📝 Public Goods
 - My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
 
