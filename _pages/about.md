@@ -45,6 +45,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 3. **Forests** with Mingyu Shu.
 
+4. **Localism** Solo-Authored.
+
 -----The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
 3. **A Tale of Blue Sky** Solo-Authored. Rest.
@@ -56,7 +58,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 2. **Feminism**
 
-3. **Carbon**
+3. **Carbon** with Yuhang Pan.
 
 # 📝 Public Goods
 - My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
