@@ -49,9 +49,9 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 -----The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
 
-3. **A Tale of Blue Sky** Solo-Authored. Rest.
+5. **A Tale of Blue Sky** Solo-Authored. Rest.
 
-4. **How Does Capital Market Respond to Justice?** Solo-Authored. Rest.
+6. **How Does Capital Market Respond to Justice?** Solo-Authored. Rest.
 
 # 📝 Works in Progress
 1. **Foreign Aid**
