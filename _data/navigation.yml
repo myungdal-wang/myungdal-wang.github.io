@@ -7,7 +7,7 @@ main:
     url: "/#publications"
 
   - title: "Working Papers"
-    url: "/working-papers"
+    url: "/#working-papers"
 
   - title: "Works in Progress"
     url: "/#works-in-progress"
