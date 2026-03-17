@@ -1,9 +1,9 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,76 +15,95 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<h1 class="page__title">About Me</h1>
 
-Welcome to my homepage!
+<p>
+  My name is <b>Mingda Wang</b>. I am an Economics PhD student at
+  <a href="https://www.ghd.pku.edu.cn/xs/bsdw/zdbs/wmd/index.htm">PKU-iGHD</a>.
+</p>
 
-My name is **Mingda Wang** (王明達), and I also go by Meta (in Japanese) or Myungdal (in Korean).
+<p>
+  Before starting my PhD, I received my B.A. in Finance from the China Academy of Finance and
+  Development at the Central University of Finance and Economics. Earlier in my training, I spent
+  more than ten years studying violin and composition, which still shapes how I think about
+  structure, attention, and expression.
+</p>
 
-I'm an Econ PhD student at **[PKU-iGHD](https://www.ghd.pku.edu.cn/xs/bsdw/zdbs/wmd/index.htm)**. 
+<p>
+  My research interests include labor, health, politics, banking, and corporate finance. I am
+  always happy to connect with collaborators working on related questions in applied economics.
+</p>
 
-I earned my Bachelor Degree at China Academy of Finance and Development, Central University of Finance and Economics. For more than ten years prior to this, I majored in violin and composition (though most of my undergrad time I just show the singing skills).
+<p>
+  You can reach me at <a href="mailto:mdwang2025@nsd.pku.edu.cn">mdwang2025@nsd.pku.edu.cn</a> or
+  <a href="mailto:wmdplato@163.com">wmdplato@163.com</a>.
+</p>
 
-My pre-PhD research interests include labor, health and politics. And I'm gonna cultivate in these fields for years. Moreover, I'm also familiar with banking and corporate finance.
+<hr class="page__hr" />
 
-I'm seeking opportunities for collaboration. If possible, feel free to contact me at mdwang2025@nsd.pku.edu.cn or wmdplato@163.com.
+<h1 class="page__title">News</h1>
 
-兄弟登山  各自努力
+<ul class="home-list">
+  <li>[Sep 2025] Started my PhD in Economics at Peking University, Institute for Global Health and Development.</li>
+  <li>[2025] "Pollution, Information and Migration" was published in <i>Asian Development Review</i>.</li>
+</ul>
 
+<hr class="page__hr" />
 
-# 📝 Publications 
+<h1 class="page__title">Publications <a href="/publications.html">[More]</a></h1>
 
-1. **[Pollution, Information and Migration](https://doi.org/10.1142/S0116110525400025)** Asian Development Review, Vol. 42, No. 01, pp. 31-56 (2025). First Author & Corresponding Author. (With my research assistant Zikun Ding.) 
-- Abstract: This paper exploits the staggered roll-out of a landmark Air Quality Monitoring Program in the People’s Republic of China to study the migration response to pollution information disclosure and labor market outcomes. Using two nationally representative individual-level datasets, we show that information mitigates the negative pollution–settlement relationship, contrary to intuition. These results are attributable to (i) information effects—that is, increased life satisfaction from information accessibility and governance efforts; and (ii) health effects—including improved health conditions and reduced hospital costs. Further evidence suggests that income growth is more pronounced for individuals with better internet or mobile device access and in regions with stronger economic development and health-care resources. We also rule out alternative explanations related to labor supply and selection issues. Our findings highlight the benefits of improving public access to pollution information in developing economies where information blockades are widespread.
+<div class="home-card">
+  <p>
+    <b><a href="https://doi.org/10.1142/S0116110525400025">Pollution, Information and Migration</a></b><br />
+    <i>Asian Development Review</i>, Vol. 42, No. 1, pp. 31-56 (2025). First author and corresponding
+    author, with Zikun Ding.
+  </p>
+  <p>
+    This paper studies how the disclosure of pollution information affects migration and labor-market
+    outcomes in China, highlighting both information and health channels.
+  </p>
+</div>
 
-# 📝 Working Papers 
+<hr class="page__hr" />
 
-1. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
+<h1 class="page__title">Working Papers</h1>
 
-2. **Conservatism** Solo-Authored.
+<ul class="home-list">
+  <li><b>The Environmental and Distributional Impacts of Stimulus Policy</b>, with Yu Luo, Ming-ang Zhang, and Hui Zhou. Submitted.</li>
+  <li><b>Conservatism</b>. Solo-authored.</li>
+  <li><b>Forests</b>, with Mingyu Shu.</li>
+  <li><b>Localism</b>. Solo-authored.</li>
+</ul>
 
-3. **Forests** with Mingyu Shu.
+<hr class="page__hr" />
 
-4. **Localism** Solo-Authored.
+<h1 class="page__title">Works in Progress</h1>
 
------The contributions of the papers below do not meet my requirements, they would't be updated until I have no more valuable projects.-----
+<ul class="home-list">
+  <li><b>Foreign Aid</b></li>
+  <li><b>Feminism</b></li>
+  <li><b>Carbon</b>, with Yuhang Pan</li>
+  <li><b>Religion</b></li>
+</ul>
 
-5. **A Tale of Blue Sky** Solo-Authored. Rest.
+<hr class="page__hr" />
 
-6. **How Does Capital Market Respond to Justice?** Solo-Authored. Rest.
+<h1 class="page__title">Education</h1>
 
-# 📝 Works in Progress
-1. **Foreign Aid**
+<ul class="home-list">
+  <li>2025.09 - present, Ph.D. in Economics, Institute for Global Health and Development, Peking University.</li>
+  <li>2021.09 - 2025.06, B.A. in Finance, China Academy of Finance and Development, Central University of Finance and Economics.</li>
+</ul>
 
-2. **Feminism**
+<hr class="page__hr" />
 
-3. **Carbon** with Yuhang Pan.
+<h1 class="page__title">Public Goods</h1>
 
-4. **Religion**
+<p>
+  My coauthors and I are collecting micro-datasets from different countries and regions. If this is
+  useful for your work, feel free to reach out.
+</p>
 
-# 📝 Public Goods
-- My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
-
-- Current progress: Brazil, Germany, Italy, Japan, Korea, Peru, Spain, Taiwan...
-
-# 🎖 Honors and Awards
-
-
-
-# 📖 Educations
-- 2025.09 - , Ph.D., Economics, Institute for Global Health and Development, Peking University. 
-- 2021.09 - 2025.06, B.A. Finance, China Academy of Finance and Development, Central University of Finance and Economics. 
-
-# 💬 Invited Talks
-
-
-
-
-
-
-
-
-
-
-
-
+<p>
+  Current progress includes Brazil, Germany, Italy, Japan, Korea, Peru, Spain, and Taiwan.
+</p>

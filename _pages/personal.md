@@ -1,0 +1,37 @@
+---
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+<h1 class="page__title">Personal</h1>
+
+<div class="home-card">
+  <p>
+    Outside research, I have a long-standing background in violin and composition.
+    Music training has shaped how I approach patience, detail, and long-horizon work.
+  </p>
+  <p>
+    I enjoy conversations about economics, public policy, and interdisciplinary research,
+    and I am always happy to connect with students and collaborators.
+  </p>
+</div>
+
+<hr class="page__hr">
+
+<h1 class="page__title">Interests</h1>
+
+<ul class="home-list">
+  <li>Violin and composition</li>
+  <li>Applied economics and policy discussions</li>
+  <li>Cross-country data collection and research collaboration</li>
+</ul>
+
+<hr class="page__hr">
+
+<h1 class="page__title">Contact</h1>
+
+<p>
+  Email: <a href="mailto:mdwang2025@nsd.pku.edu.cn">mdwang2025@nsd.pku.edu.cn</a><br>
+  Alternate: <a href="mailto:wmdplato@163.com">wmdplato@163.com</a>
+</p>
