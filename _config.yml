@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingda Wang"
-description              : "Econ student"
+description              : "Economics PhD student at Peking University"
 repository               : "myungdal-wang/myungdal-wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingda Wang"
   avatar           : "images/白底照片.jpg"
-  bio              : "Peking University"
+  bio              : "Economics PhD student at PKU-iGHD"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wmdplato@163.com"
+  email            : "mdwang2025@nsd.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
