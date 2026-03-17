@@ -38,7 +38,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 1. **[Pollution, Information and Migration](https://doi.org/10.1142/S0116110525400025)** Asian Development Review, Vol. 42, No. 01, pp. 31-56 (2025). First Author & Corresponding Author. (With my research assistant Zikun Ding.) 
 - Abstract: This paper exploits the staggered roll-out of a landmark Air Quality Monitoring Program in the People’s Republic of China to study the migration response to pollution information disclosure and labor market outcomes. Using two nationally representative individual-level datasets, we show that information mitigates the negative pollution–settlement relationship, contrary to intuition. These results are attributable to (i) information effects—that is, increased life satisfaction from information accessibility and governance efforts; and (ii) health effects—including improved health conditions and reduced hospital costs. Further evidence suggests that income growth is more pronounced for individuals with better internet or mobile device access and in regions with stronger economic development and health-care resources. We also rule out alternative explanations related to labor supply and selection issues. Our findings highlight the benefits of improving public access to pollution information in developing economies where information blockades are widespread.
 
-<span class='anchor' id='pre-phd-working-papers'></span>
+<span class='anchor' id='working-papers'></span>
 # 📝 Working Papers 
 
 1. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
