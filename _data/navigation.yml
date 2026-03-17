@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Pre-PhD Working Papers"
-    url: "/#pre-phd-working-papers"
+  - title: "Working Papers"
+    url: "/working-papers"
 
   - title: "Works in Progress"
     url: "/#works-in-progress"
