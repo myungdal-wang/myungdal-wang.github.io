@@ -50,7 +50,7 @@ redirect_from:
 
 <hr class="page__hr" />
 
-<h1 class="page__title">Publications <a href="/publications.html">[More]</a></h1>
+<h1 class="page__title">Publications <a href="/publications/">[More]</a></h1>
 
 <div class="home-card">
   <p>
