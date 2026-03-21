@@ -65,6 +65,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 4. **Religion**
 
+5. **Credit Expansion**
+
 <span class='anchor' id='public-goods'></span>
 # 📝 Public Goods
 - My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
