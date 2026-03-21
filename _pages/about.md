@@ -41,7 +41,7 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 <span class='anchor' id='working-papers'></span>
 # 📝 Working Papers 
 
-1. **The Environmental and Distributional Impacts of Stimulus Policy** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
+1. **[The Environmental and Distributional Impacts of Stimulus Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6446591)** with Yu Luo, Ming-ang Zhang & Hui Zhou. Submitted.
 
 2. **Conservatism** Solo-Authored.
 
