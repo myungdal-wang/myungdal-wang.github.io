@@ -67,6 +67,8 @@ I'm seeking opportunities for collaboration. If possible, feel free to contact m
 
 5. **Credit Expansion**
 
+6. **Milk** with Mingyu Shu & Youyang Wu.
+
 <span class='anchor' id='public-goods'></span>
 # 📝 Public Goods
 - My coauthors and I are collecting various micro-datasets of various countries and regions. Feel free to contact us for more information.
